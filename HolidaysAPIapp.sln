@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysAPI", "HolidaysAPI\HolidaysAPI.csproj", "{9ED8F618-8D08-4449-8569-3489FD85A6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED8F618-8D08-4449-8569-3489FD85A6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED8F618-8D08-4449-8569-3489FD85A6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED8F618-8D08-4449-8569-3489FD85A6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED8F618-8D08-4449-8569-3489FD85A6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE823AC-86E0-42BE-9522-838B33DA3047}
+	EndGlobalSection
+EndGlobal
