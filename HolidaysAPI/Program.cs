@@ -1,4 +1,4 @@
-using IHolidaysAPI.Services;
+using HolidaysAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +13,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IHebcalService, HebcalService>();
 builder.Services.AddScoped<ICalendarificService, CalendarificService>();
 
+// Register HttpClient in the DI container without setting the BaseAddress.
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 

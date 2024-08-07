@@ -1,6 +1,6 @@
-﻿using IHolidaysAPI.Models;
+﻿using HolidaysAPI.Models;
 
-namespace IHolidaysAPI.Services;
+namespace HolidaysAPI.Services;
 
 public interface ICalendarificService
 {

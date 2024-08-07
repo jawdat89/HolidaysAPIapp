@@ -1,8 +1,8 @@
-﻿using IHolidaysAPI.Models;
+﻿using HolidaysAPI.Models;
 using System.Net.Http;
 using System.Text.Json;
 
-namespace IHolidaysAPI.Services
+namespace HolidaysAPI.Services
 {
     public class CalendarificService : ICalendarificService
     {

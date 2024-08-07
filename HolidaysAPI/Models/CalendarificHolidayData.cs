@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace IHolidaysAPI.Models;
+namespace HolidaysAPI.Models;
 
 public class CalendarificHolidaysResponse
 {

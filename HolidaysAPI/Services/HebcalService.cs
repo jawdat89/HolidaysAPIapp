@@ -1,8 +1,8 @@
-﻿using IHolidays.Models;
+﻿using HolidaysAPI.Models;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace IHolidaysAPI.Services;
+namespace HolidaysAPI.Services;
 
 /// <summary>
 /// Service for interacting with the Hebcal API to retrieve Jewish calendar data.

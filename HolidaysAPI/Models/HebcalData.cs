@@ -1,7 +1,6 @@
-﻿using System;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace IHolidaysAPI.Models;
+namespace HolidaysAPI.Models;
 
 /// <summary>
 /// Represents the response from the Hebcal Jewish Calendar API.
