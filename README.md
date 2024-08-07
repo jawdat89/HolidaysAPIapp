@@ -27,7 +27,6 @@ Copy code
     "BaseUrl": "https://calendarific.com/api/v2"
   },
   "Hebcal": {
-    "ApiKey": "YOUR_HEBCAL_API_KEY", // If required
     "BaseUrl": "https://www.hebcal.com"
   }
 }
